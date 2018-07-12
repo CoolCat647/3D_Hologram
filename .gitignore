@@ -11,6 +11,9 @@
 *.gch
 *.pch
 
+# IDE project file
+*.qbs
+
 # Compiled Dynamic libraries
 *.so
 *.dylib
@@ -30,3 +33,8 @@
 *.exe
 *.out
 *.app
+*.bin
+
+# Folder
+/obj
+/bin/3D_Hologram
